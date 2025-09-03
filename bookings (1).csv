@@ -1,0 +1,11 @@
+customer_id,customer_name,city,hotel_id,hotel_name,location,booking_id,booking_date,stay_duration,amount_spent,status,rating
+1,Amit,Delhi,H01,Grand Palace,Mumbai,B001,2025-01-05,3,12000,booked,4
+2,Riya,Delhi,H02,Sea View,Goa,B002,2025-01-10,2,8000,cancelled,3
+3,Arjun,Mumbai,H01,Grand Palace,Mumbai,B003,2025-02-15,4,20000,booked,5
+4,Neha,Bangalore,H03,Mountain Inn,Manali,B004,2025-03-12,5,15000,booked,4
+5,Krishna,Hyderabad,H02,Sea View,Goa,B005,2025-03-18,3,10000,booked,4
+6,Sanya,Pune,H01,Grand Palace,Mumbai,B006,2025-04-01,2,7000,cancelled,2
+7,Vikram,Chennai,H03,Mountain Inn,Manali,B007,2025-04-20,6,18000,booked,5
+8,Pooja,Delhi,H02,Sea View,Goa,B008,2025-05-10,4,9000,booked,4
+9,Manish,Kolkata,H03,Mountain Inn,Manali,B009,2025-05-25,3,16000,booked,5
+10,Anita,Mumbai,H01,Grand Palace,Mumbai,B010,2025-06-05,2,11000,booked,3
